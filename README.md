@@ -31,7 +31,7 @@ Link: https://youtu.be/Zv1Hv2TMXPY
 ## Website
 
 Website: 
-https://michpara.github.io/PintoBin/
+https://michpara.github.io/pintobin/
 
 ## Authors and acknowledgment
 Michelle Paradis, Alina Chalanuchpong, Doris Zhou
