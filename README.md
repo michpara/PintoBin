@@ -1,4 +1,4 @@
-# PintoBin (ElleHacks 2021)
+# PintoBin (ElleHacks 2021 - Teledyne's Custom Award Winners)
 
 ![alt text](screenshot/screenshot.png)
 
